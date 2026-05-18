@@ -34,7 +34,7 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,fastapi,django,nodejs,mysql,sqlite,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,react,typescript,javascript,fastapi,flask,django,nodejs,mysql,postgree,sqlite,git,linux" />
 
 </div>
 
