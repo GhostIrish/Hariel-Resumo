@@ -1,16 +1,22 @@
+<!-- BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HARIEL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%26%20Desenvolvedor&descAlignY=55"/>
+</p>
+
+<!-- APRESENTAÇÃO -->
+
+<h3 align="center">
+Construindo soluções reais com desenvolvimento, automações, integrações e dados 🚀
+</h3>
+
 <div align="center">
-
-# Olá, eu sou o Hariel 
-
-### Analista de Sistemas & Desenvolvedor
-
-Construindo soluções reais com desenvolvimento, automações, integrações e dados.
 
 <a href="https://www.hariel.site/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfólio-hariel.site-111?style=for-the-badge">
 </a>
 
-<a href="https://linkedin.com/in/hariel-pimenta" target="_blank">
+<a href="https://linkedin.com/in/SEUUSUARIO" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
 </a>
 
