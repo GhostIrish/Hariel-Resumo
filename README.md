@@ -79,6 +79,17 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 
 📊 Soluções voltadas para dados e processos
 
+<div align="center">
+
+### 🌐 Veja meus projetos completos no portfólio
+
+<a href="https://www.hariel.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Portfólio-111?style=for-the-badge&logo=vercel">
+</a>
+
+</div>
+
+
 ---
 
 <div align="center">
