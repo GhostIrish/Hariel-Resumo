@@ -87,8 +87,11 @@ Construindo soluções reais com desenvolvimento, automações, integrações e 
 ## 📌 Projetos em destaque
 
 🚧 Sistemas de gestão e automação
+
 🌐 Aplicações Web Full Stack
+
 📦 Integrações e APIs
+
 📊 Soluções voltadas para dados e processos
 
 <div align="center">
